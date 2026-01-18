@@ -84,7 +84,7 @@ Building real-world ML, AI & security-focused systems
 
 <p>
   •
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/payal-jain-ml" target="_blank" rel="noopener noreferrer">
     LinkedIn
   </a>
   •
