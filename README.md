@@ -88,7 +88,8 @@ Building real-world ML, AI & security-focused systems
     LinkedIn
   </a>
   •
-  <a href="mailto:payaljain1503@gmail.com">Email</a>
+  <br>
+  <a href="mailto:payaljain1503@gmail.com">payaljain1503@gmail.com</a>
 </p>
 
 ---
