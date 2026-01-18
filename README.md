@@ -83,8 +83,12 @@ Building real-world ML, AI & security-focused systems
 <h3>🤝 Connect With Me</h3>
 
 <p>
-  <a href="www.linkedin.com/in/payal-jain-ml">LinkedIn</a> •
-  <a href="payaljain1503@gmail.com">Email</a>
+  •
+  <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank" rel="noopener noreferrer">
+    LinkedIn
+  </a>
+  •
+  <a href="mailto:payaljain1503@gmail.com">Email</a>
 </p>
 
 ---
